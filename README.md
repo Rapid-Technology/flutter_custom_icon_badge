@@ -1,4 +1,4 @@
-# flutter_icon_badge
+# Flutter Icon Badge
 
 A new Flutter project.
 
